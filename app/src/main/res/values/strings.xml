@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidVisionApi</string>
+    <string name="description">Description…</string>
+    <string name="process">Process</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="image_area">Image Area</string>
+</resources>
