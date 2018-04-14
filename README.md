@@ -9,5 +9,5 @@ So lets see the world with the help of our vision and make a way to live a new a
 
 <h2>Instruction to run
 </h2>
-<h3>Ensure your Android API level is above 22. Enable Permissions for Camera if required. Extract the .apk file from ZIP archive named Vision_Master and Install it.</h3>
+<h3>Ensure your Android API level is above 22. Enable Permissions for Camera if required. Download the .apk file from Below link and Install it.</h3>
 <h3><a href="https://drive.google.com/file/d/1SMPAz5OdaPkXIqJO54uP0V-_xHhFsGWr/view?usp=sharing">Click here to download the Application On Android Device</a></h3>
