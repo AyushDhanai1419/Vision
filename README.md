@@ -5,3 +5,6 @@
 For low-vision people it is best to use as it not not need so much interaction with the phone just click once and the photo will be recognized by Microsoft Azure Services and and it will identify it and inform you what is that thing in front of you?
 So lets see the world with the help of our vision and make a way to live a new and better life for needed ones. 
 </h3>
+
+
+<h3><a href="https://drive.google.com/file/d/1SMPAz5OdaPkXIqJO54uP0V-_xHhFsGWr/view?usp=sharing">Click here to download the Application On Android Device</a></h3>
