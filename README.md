@@ -20,3 +20,18 @@ Kindly arise an issue If this Problem comes...so that I can update the API key
 
 </h3>
 
+<h2>Screenshots</h2>
+
+<pre>
+<h3>Recognition Of a laptop</h3>
+<img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/1.png width=180 height=320>   <img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/2.png width=180 height=320>   <img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/3.png width=180 height=320>   <img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/4.png width=180 height=320>
+
+<h3>Some Other Recognition Images</h3>
+<img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/5.png width=180 height=320>  <img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/6.png width=180 height=320>
+</pre>
+
+
+<h2>Video Preview</h2>
+<a href=https://drive.google.com/file/d/1SNi-XRYzbmCwCCC1VDqJoKtRu-bzkT_b/view?usp=sharing
+><img src=https://github.com/AyushDhanai1419/Vision/blob/master/images/video.PNG width=700 height=350>
+</a>
